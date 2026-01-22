@@ -28,6 +28,7 @@ Los laboratorios se organizan en **subcarpetas independientes**, sin clasificaci
 ```text
 Networking-Labs/
 ├── network-monitoring-basic/
+├── port-scanning-basic/
 ├── ...
 └── README.md
 ```
